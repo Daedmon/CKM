@@ -3,8 +3,8 @@ filename = "createdieselgenerators-1.20.1-1.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2df4efb746a747355ea050f564c26440fde1fc56"
+hash-format = "sha512"
+hash = "a7990f70a40b318d4f2713aef70bbb0b70cecd62c29fa381d6436b45c1f2813e61085661bf221210a2101662f0b2984cc5f2bb1ce62282064cc72dc1394abb81"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "dynamic-fps-3.6.0+minecraft-1.19.4-quilt.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ebde292e5f998e8156c56c1822c7fcd18b6c9fd5"
+hash-format = "sha512"
+hash = "4cfa203abcac89236b0e231938eda0c29e8e6c54e47238713dae2701038d21f7b6c1f63af35574ccd96b4afcb10df2b3029506b0ff91f7de09ceb0b3bed95693"
 mode = "metadata:curseforge"
 
 [update]

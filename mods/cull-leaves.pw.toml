@@ -3,8 +3,8 @@ filename = "cullleaves-forge-4.1.0+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f65ca3e9a60a6705694de1fce801b6ee9a490daf"
+hash-format = "sha512"
+hash = "16face192d27bf37dfb7aaca8405c4ebd3a536d43eede9d76aad8714990c91f5bfe8874e4b18f619060e058f5294b6e883ec55d09ce350327618d2323f3d2a44"
 mode = "metadata:curseforge"
 
 [update]

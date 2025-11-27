@@ -3,8 +3,8 @@ filename = "SereneSeasons-forge-1.20.1-9.1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6"
+hash-format = "sha512"
+hash = "ab17c58f76e35a634788e98b7396bd0bc90ca05ff3932a3fca49c793f786d6f9689134aab631b7abbfc017eaef46001dde96ae164518c07edb69ea9f9d51fcbc"
 mode = "metadata:curseforge"
 
 [update]

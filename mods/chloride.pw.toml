@@ -3,8 +3,8 @@ filename = "chloride-FORGE-mc1.20.1-v1.7.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d04b7bcd14a210a670877ff3f425fbf760dadda3"
+hash-format = "sha512"
+hash = "8887bde8e39db0a65492f4232a959a5821b6fc56960161e9b78b34e6bf04087f00b766cd1741c0a89c4724953bed62b8dc6352dc14a7166c7da22f011408c8e6"
 mode = "metadata:curseforge"
 
 [update]
