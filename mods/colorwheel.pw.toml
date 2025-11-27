@@ -14,4 +14,4 @@ version = "X6DowH3e"
 
 [option]
 optional = true
-description = "Оптимизация и совместимость шейдеров с модом Create"
+description = "Оптимизация шейдеров с модом Create"
