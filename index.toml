@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "e464bee58cc7b4e0835034e103baff6d5a23019824e472b4d4e064da52e68ca0"
+hash = "cce5b7e6782f924c99bf6dcbe991a0d91dfb4dad5e9e94164ab922a142a6c411"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "1fc99093b32a74f6269267e5ae6660f80a775f9161495265408703ae2c7e0837"
+hash = "d7caed61a7e390517eea2e72d2999d79e9687c31189d664a66243f436533b297"
 metafile = true
 
 [[files]]
