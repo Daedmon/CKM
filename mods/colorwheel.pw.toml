@@ -11,3 +11,7 @@ hash = "d919e95c6eed99a223ac6bc7f9c3b8c350dc1ea4279c4cdbd7ebfa78d3bc6dadeccac34a
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "X6DowH3e"
+
+[option]
+optional = true
+description = "Оптимизация и совместимость шейдеров с модом Create"
