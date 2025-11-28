@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "0b649d322e2f9e00daf95e444e8e9056df6e7e8de35033e6bd043a965371db4c"
+hash = "b2d5b5b17c48ac964823515017a4e2f2e0284173f81688c9024c4d47aef7ff3e"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "24ede5e61cf4526f25a96e732a7430bcb20c774060f7cf2ecdf54ac5adbf9786"
 metafile = true
 
 [[files]]
@@ -372,10 +372,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e1e554af7ac7d970737dc181caa5480411ca5b6e9cfb00880dd620c9572a00a1"
+hash = "d4c57cc3165789fd9838cb28d66e8af0447cc3f2ea36acf85ad723b1ad2b71a0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "191b53412bae2092ba3581e1c0fb0e7327497cb354d72b3c170d1bb5a7d70c05"
+hash = "39f99fe893b5e8d39ead3fff0b58104ecbbd4b8da3f684f7442f2db341b4e323"
 metafile = true

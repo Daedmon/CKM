@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6778028
 project-id = 263420
+
+[option]
+optional = true
+description = """
+Добавляет миникарту. Стоит настроить биндьі.

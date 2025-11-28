@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6778091
 project-id = 317780
+
+[option]
+optional = true
+description = """
+Мод на карту мира. Стоит настроить биндьі.
