@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "d100434c88e12cce47520a99bf4bf49bbd84dc3ad5c1d18eafbfc4b5d16251cc"
+hash = "d8f652e6f9dd373b577aa4cffd3421b7b04ab38194e59871cecaaa29dc3fc1c2"
 metafile = true
 
 [[files]]

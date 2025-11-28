@@ -14,4 +14,10 @@ version = "X6DowH3e"
 
 [option]
 optional = true
-description = "Оптимизация шейдеров с модом Create"
+description = """
+Оптимизация шейдеров с модом Create.
+Поддерживаемьіе шейдерьі:
+Euphoria Patches, 1.7.0+
+Eclipse
+Glimmer
+Shrimple"""
