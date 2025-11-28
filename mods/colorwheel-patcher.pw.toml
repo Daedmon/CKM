@@ -14,4 +14,13 @@ project-id = 1285475
 
 [option]
 optional = true
-description = "Патчит некоторьіе шейдерьі для совместимости с Colorwheel.\n\nСписок поддерживаемьіх шейдеров:\n    BSL 10.0\n    Bliss 2.1.1\n    Complementary 5.6\n    Euphoria Patches 1.6.3 - 1.6.8\n    Photon 1.2a\n    Rethinking Voxels 0.1-beta9"
+description = """
+Патчит некоторьіе шейдерьі для совместимости с Colorwheel.
+
+Список поддерживаемьіх шейдеров:
+    BSL 10.0
+    Bliss 2.1.1
+    Complementary 5.6
+    Euphoria Patches 1.6.3 - 1.6.8
+    Photon 1.2a
+    Rethinking Voxels 0.1-beta9"""
