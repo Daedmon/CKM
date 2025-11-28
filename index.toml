@@ -31,8 +31,18 @@ hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "41e86b26f4cde514268443446e873ca32e0c2e128c3f106c46489fe6c608478e"
+metafile = true
+
+[[files]]
+file = "mods/butchers-delight-foods.pw.toml"
+hash = "80933837c0b6998cd1127248e1a714721b9ee49eb3bbaecf3b931598fd18fa69"
 metafile = true
 
 [[files]]
@@ -323,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "24ede5e61cf4526f25a96e732a7430bcb20c774060f7cf2ecdf54ac5adbf9786"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "131e4f8e6ea05f47b2167852ad319d15a004e951b49aba54cbb6306570319cea"
 metafile = true
 
 [[files]]
