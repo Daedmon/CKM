@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "4bb9b876deffd42c80c416ce7ad651bed4480b92259962286a6a35386bd822bc"
+hash = "278bc7ba256f6a2bf8c01c049972b16d1d23194c895eca77f977d23082d960fd"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "b2d5b5b17c48ac964823515017a4e2f2e0284173f81688c9024c4d47aef7ff3e"
+hash = "6c57f3bf29e9eb976aa438b7136c8cb5b8eced1f58f62ddac8590551b00c8dfb"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "c76d91fb0775ac6a31dd391f5f09c5f9ca8633f341ed99ff3bcfe8b94ca7ffef"
+hash = "94e090b8fc864613b61802f3ede850891311cd06bece2eb0cc2f6ed8e16f32bb"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "f99d61ca901bf47e9c4bfbec25f107d49c7d08b4b49e7d737a097f1a0cba9270"
+hash = "5683dd7f29ed16c4695659f441afbf469c9a3b930d5f4fe8a775ccb2e9c3e461"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "24ede5e61cf4526f25a96e732a7430bcb20c774060f7cf2ecdf54ac5adbf9786"
+hash = "133e3dadd71ccde8a25cefccb080da9f59c5229824c40ca4a070168a4918ff00"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "7de988be101b1d655b4d95d34b29aa37009bb35fe805fd9af35e9813ac18a985"
+hash = "968d42ca22e8d84a7611ece0a3f719288aac0a17431b9bf391009e7c026730be"
 metafile = true
 
 [[files]]
@@ -402,10 +402,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "901447e95dd5580425560047a786c242103b9d090191d3316002ddc11100a478"
+hash = "9467d5d569c98347f81c562a996b32bdec06990e0205ac8a773dcc2a604cd76e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "fdf8613e119c4ee892dff8d400ba2ade21c8fd21111edc1c4b1ae4cfce55da9f"
+hash = "0b029c23dad2cc553de667b8e068bfc4eeb1e96cdaca6ddb25bc8af0ff62e771"
 metafile = true
