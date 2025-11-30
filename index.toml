@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "f944674f293e19621d34409183c6bc2dff5c9937a5b43988cdb20c316dd79a1b"
+hash = "c76d91fb0775ac6a31dd391f5f09c5f9ca8633f341ed99ff3bcfe8b94ca7ffef"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
+hash = "f99d61ca901bf47e9c4bfbec25f107d49c7d08b4b49e7d737a097f1a0cba9270"
 metafile = true
 
 [[files]]
@@ -338,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "24ede5e61cf4526f25a96e732a7430bcb20c774060f7cf2ecdf54ac5adbf9786"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "e1980925bc99dc6a1002003d2bea606554a4693e1e47281a6561406dc68cbaaf"
 metafile = true
 
 [[files]]

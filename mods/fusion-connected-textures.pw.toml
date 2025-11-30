@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 6923652
 project-id = 854949
+
+[option]
+optional = true
+description = """
+Добавляет возможность соединения текстур (требуется ресурспак)"""
