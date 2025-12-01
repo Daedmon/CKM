@@ -186,6 +186,11 @@ hash = "093093e9eb75b69dccdec6983da268c5bbaacbd328db726385d9fbb4208ed3e8"
 metafile = true
 
 [[files]]
+file = "mods/drg-laser-pointer.pw.toml"
+hash = "50e7fa666edfa32551f17474c59ddc6933dbf5c4687de40dbf586f50f7777b65"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "e5e7d216c630e8c73310200a17f8484b8e7aa5a9a35aaf17866c27a77a874069"
 metafile = true
@@ -353,11 +358,6 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "968d42ca22e8d84a7611ece0a3f719288aac0a17431b9bf391009e7c026730be"
-metafile = true
-
-[[files]]
-file = "mods/ping.pw.toml"
-hash = "95f37f25194402246b7ed309e2b8549e3d2b9f1f0baa19fd04cbe6862437326b"
 metafile = true
 
 [[files]]
