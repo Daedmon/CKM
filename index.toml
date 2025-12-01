@@ -401,11 +401,6 @@ hash = "c8f7c1b8175c28afae4425a91db9db8640f82327138b6d3168f06fb0aa905b2c"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "f444264318161be483bf083c6869d9dd632d62e5e5f2680cd140f5545b9ccc20"
-metafile = true
-
-[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "4f01fd8fa3263504cfcc6bfdf4ef0184fa16a2795310ab6aac10cd9c1f756af8"
 metafile = true

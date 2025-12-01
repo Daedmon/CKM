@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 7253531
 project-id = 423254
+
+[option]
+optional = true
+description = """
+Оптимизация листвьі (делает ее более прозрачной). Стоит использовать встроенньій ресурспаак для более-менее приемлимого результата."""
