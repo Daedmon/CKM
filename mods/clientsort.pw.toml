@@ -1,0 +1,18 @@
+name = "Client Sort"
+filename = "clientsort-forge-2.1.4+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ec0995ba6ba235eeaadbbdd5e6c199eb7f8e459"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7272888
+project-id = 1049891
+
+[option]
+optional = true
+description = """
+Сортировка инвекнтаря"""
