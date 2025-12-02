@@ -3,8 +3,8 @@ filename = "clientsort-forge-2.1.4+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5ec0995ba6ba235eeaadbbdd5e6c199eb7f8e459"
+hash-format = "sha512"
+hash = "fe6736f0b71e526fb13c40da7472f03759f5bb2e79a6877c68e31f8811288ac5643c0571b2beb521abcffee40e7c07e1af284bfbe8bd5afadb04e636a3e59bd6"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,4 @@ project-id = 1049891
 
 [option]
 optional = true
-description = """
-Сортировка инвекнтаря"""
+description = "Сортировка инвекнтаря"

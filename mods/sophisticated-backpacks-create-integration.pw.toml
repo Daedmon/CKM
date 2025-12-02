@@ -3,8 +3,8 @@ filename = "sophisticatedbackpackscreateintegration-1.20.1-0.1.5.30.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5597cce58d4c3529574c12ef6d39932c600bcdc1"
+hash-format = "sha512"
+hash = "9c366ae9ab9010931b4f250fea32ae4b24ee0ce54de2b36b4bb5b3751ba5c093a5c2137dc7105129c45afdb496583c6f0153c64105603be30bc672781683c6f8"
 mode = "metadata:curseforge"
 
 [update]

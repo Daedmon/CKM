@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
+hash = "f84300bcfa8c4a18358231c25b38892a98685cf537295419bce81242737df821"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "fded3f6e698ade4f2b68dacdc0f01aa46a05eaf2f409f53f141a3868bc03a1e3"
+hash = "c558d60c56cf33a9c2a91572455bd6e009d1138b2b9ecfe7ab4a716618334e27"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "faebbfd3b8e52be033edfc0a3ca3a964b6cd62c53eb704f047b6c3432e3c4a2a"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/configured.pw.toml"
-hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+hash = "16ca6cdfe8ebd5f0b417a3d92a547734fbfb85cd079837d13576ab93dea9fdca"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9d7971a7af2ff4a96a0e5aede76f9cf8dc978da601e2754f79d6ec8631125bb9"
+hash = "54388e2674852f16662a66278ccfc78717c7b5537f38a4ace522e38693b22757"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "2960c3ea6ef3b81c57eea3cc278dec2546af797bf4fee20aa7c5d9746168760b"
+hash = "bcf20bd218916fb855e6172ae117a4cbba4768913ed76989ca09068d4dd99a0c"
 metafile = true
 
 [[files]]
@@ -316,11 +316,6 @@ hash = "d356b966949c7845c3f552e0b930c586816549a67c6f47248c5e01bccdd7a4ae"
 metafile = true
 
 [[files]]
-file = "mods/kubejs.pw.toml"
-hash = "873d23ad2ce05e3e92a05e011f3f9a375a745a4ca6ed4c9fffb0518fc8255bf7"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "e38a7cca995831effaae6f40cacd50aa411c86a4e2cbec81663550762ca237eb"
 metafile = true
@@ -391,11 +386,6 @@ hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
-file = "mods/rhino.pw.toml"
-hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
-metafile = true
-
-[[files]]
 file = "mods/rrls.pw.toml"
 hash = "c8f7c1b8175c28afae4425a91db9db8640f82327138b6d3168f06fb0aa905b2c"
 metafile = true
@@ -417,17 +407,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-create-integration.pw.toml"
-hash = "0462f0b658c766e1ccb9974f576090713738606d6513aba89cf8d5ba2b00847b"
+hash = "aea578a68e4ec4793cde2487b5a158388a9b86d8558e44019b04d7de4c5aaa98"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3bb4a9500b84afbceb8d426505a1727888aa53de23f839ce261fe6956491cc83"
+hash = "8ae5055ca8c123f29881d54e4a9db5f6f4bfc34ec2c75871bf3382d36bfd0b03"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4e0171baa817919422b027a64d97ef8ffc63879c94671b2fc42f191cc6f3900d"
+hash = "13e740c411c488bfddcceefb0f346a1bb86161c788d02768292f256e34b82272"
 metafile = true
 
 [[files]]
