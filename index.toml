@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "eb93a689b44374996f86d8f5797c8dd01a03694e34deb7ff99d144d768373c47"
+hash = "c36226ec3a3b11ec2863b68480aeb9685bef984a4824926ea1de5f931768b4c4"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e5e7d216c630e8c73310200a17f8484b8e7aa5a9a35aaf17866c27a77a874069"
+hash = "274986927903f34475cd996a8fa642e296d32769e3a74b658b835ba597369043"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
+hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "7e6a81acc370760b8b1b966e7dc23cb8eaf33a3eed4fbb863b5d49cbc5468e3b"
+hash = "6b7b35db4ccf235d771504c313fb2897139c2f8f8b8857d9b00b97b5b9d624d8"
 metafile = true
 
 [[files]]
@@ -428,6 +428,11 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
+metafile = true
+
+[[files]]
+file = "mods/ukraine-delight.pw.toml"
+hash = "4b1f93f5b898590c3a9495d72b6ceb6fbb57b4f51472f36494b409962e6f8431"
 metafile = true
 
 [[files]]
