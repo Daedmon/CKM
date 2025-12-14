@@ -51,6 +51,11 @@ hash = "8fb344ccd4a719e2b130723514a4f4ee6bd38ae52eaf962b0b6ccb1bf07d15d6"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "43edc2a35e428f57ec56e4988f205755acfc63e91d5603cd63b82d2e05fcdcdc"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "eb4f3d721559d97a437dbcee26e3da827e6b301f44e86e1b813118c2bff25377"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
@@ -173,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "58a21ddc3701972ae8b8ebd7eca07fccfab725597a0fe05a605c80a42f80cd58"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
