@@ -51,6 +51,11 @@ hash = "8fb344ccd4a719e2b130723514a4f4ee6bd38ae52eaf962b0b6ccb1bf07d15d6"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "43edc2a35e428f57ec56e4988f205755acfc63e91d5603cd63b82d2e05fcdcdc"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "eb4f3d721559d97a437dbcee26e3da827e6b301f44e86e1b813118c2bff25377"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
@@ -186,6 +196,11 @@ hash = "58a21ddc3701972ae8b8ebd7eca07fccfab725597a0fe05a605c80a42f80cd58"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "cd2a8909fcd40249d7b609fb93cd4fdcb7d821cc09fb446f89a24bb760ef0beb"
 metafile = true
@@ -193,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "6dfb89477ea9588a6cc33c93b439d4a54362b4d96375dc8449c5861e9552bc5f"
-metafile = true
-
-[[files]]
-file = "mods/delightful-creators-forge.pw.toml"
-hash = "093093e9eb75b69dccdec6983da268c5bbaacbd328db726385d9fbb4208ed3e8"
 metafile = true
 
 [[files]]
@@ -253,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
-metafile = true
-
-[[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "06580e84bd3c27a84c743ebe0c45e3bd7ce6e1b6377e39f15774634a7663130b"
 metafile = true
 
 [[files]]
@@ -464,3 +469,7 @@ metafile = true
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "f1231e60145f7b7182c0348c7025e75d96710e6731df3876d9257b93adb1b14b"
 metafile = true
+
+[[files]]
+file = "pw"
+hash = "fcd301251aed794fe56d430881646fcd8313cd2712610e7eafa254a307a64861"
