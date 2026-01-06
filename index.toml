@@ -436,6 +436,11 @@ hash = "13e740c411c488bfddcceefb0f346a1bb86161c788d02768292f256e34b82272"
 metafile = true
 
 [[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "d3de35f81f2477d069d6d64c00dc2b8a0a255273e14834241215e8a2ab401ada"
 metafile = true
