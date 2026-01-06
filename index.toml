@@ -106,6 +106,16 @@ hash = "a227a161bdb20250ec684935df9719bb2624d2290e9ea7ca3ee8f8516e965f02"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-bobs.pw.toml"
+hash = "c4b6661b90c5612e519f7ef631589a4e59cdbdae354520311b12514715b5aea6"
+metafile = true
+
+[[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "7fefb7b41c172143d8d134a8eb591ef625c4d60c1abcdeedc0a63c75b57bdefd"
+metafile = true
+
+[[files]]
 file = "mods/create-copper-zinc.pw.toml"
 hash = "1583e41c4368f2797d2766a9d7138c3c6d9cda0af8b46c9da406bd9ee2c029a4"
 metafile = true
@@ -142,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "54388e2674852f16662a66278ccfc78717c7b5537f38a4ace522e38693b22757"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -433,6 +443,11 @@ metafile = true
 [[files]]
 file = "mods/ukraine-delight.pw.toml"
 hash = "4b1f93f5b898590c3a9495d72b6ceb6fbb57b4f51472f36494b409962e6f8431"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "4a99189bb405cef0912f67530bc227d28d89f8c40e484267e66bf64ed9231020"
 metafile = true
 
 [[files]]
