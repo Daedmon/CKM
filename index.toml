@@ -246,6 +246,11 @@ hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "866b92f2599f2e4058db0fd4583870ace1ad9063e8d3bc71407d3d239bcd1243"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "450f7252796acbd40bcbc1f952f17f14c3a37234c8187a48682e3ec267034273"
 metafile = true
