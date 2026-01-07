@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "c36226ec3a3b11ec2863b68480aeb9685bef984a4824926ea1de5f931768b4c4"
+hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "6c57f3bf29e9eb976aa438b7136c8cb5b8eced1f58f62ddac8590551b00c8dfb"
+hash = "769316a7c75a36343a329396ed095fc790633bb271464130757ee92f735fc4ad"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "85c1ed73d33afcea9ae0dbec43f93a5af7bfb1f796cec0fc2a179cf65da983d9"
+hash = "6539be34ce1c1142910690b42dd243672ca0a2d64a2e15b70ad5a863e0ec06ee"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "aa93514a01d60ca71456e709e9de1719d17f58457b1ac917d1bbb8b43fb48f3f"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
@@ -462,12 +462,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9467d5d569c98347f81c562a996b32bdec06990e0205ac8a773dcc2a604cd76e"
+hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "0b029c23dad2cc553de667b8e068bfc4eeb1e96cdaca6ddb25bc8af0ff62e771"
+hash = "c610e4f3a315259f44c6c2ce05503e93c7525a43a21d13f0e0661062cb82bede"
 metafile = true
 
 [[files]]
