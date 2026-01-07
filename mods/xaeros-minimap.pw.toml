@@ -11,3 +11,7 @@ hash = "0811f254ad5c764e3d9f1a00c3eb2840ed470dc3919f345bfefe6dc3f327c909ca07b847
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "8SbF22u3"
+
+[option]
+optional = true
+description = "Удобная мини-карта на главном экране. Включает радар сущностей, отображение пещер, систему вейпоинтов и гибкие настройки интерфейса."

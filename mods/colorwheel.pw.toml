@@ -11,3 +11,7 @@ hash = "603ad678a8dfc3fbcad5f1173e396125244eaad55727d47f7ddd4b66df725c59d90fabaf
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "sMMng3Id"
+
+[option]
+optional = true
+description = "Мод совместимости между движком рендеринга Flywheel (используется в Create 0.6+) и шейдерами Iris. Позволяет корректно отображать механизмы Create с включенными шейдерами."

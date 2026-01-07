@@ -11,3 +11,7 @@ hash = "c8f2960515e58b75fc8dd61b950dea11a55f7546de98f93ed63548b346a2f08862463c66
 [update.modrinth]
 mod-id = "N6u7qVnG"
 version = "WjwxMOaa"
+
+[option]
+optional = true
+description = "Автономная реализация системы Custom Item Textures (CIT) из MCPatcher/OptiFine. Позволяет ресурс-пакам изменять текстуры предметов в зависимости от их названия, зачарований, прочности и NBT-данных."

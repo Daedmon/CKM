@@ -11,3 +11,7 @@ hash = "0867694b97f81649c2378c47e27081fdcef7b4580a499090c1f68faf8cb52634727d83f5
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "LYdIykWO"
+
+[option]
+optional = true
+description = "Полноэкранная карта мира, сохраняющая прогресс исследования территорий. Работает автономно или в связке с Minimap, не нагружает игру и поддерживает масштабирование."

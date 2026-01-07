@@ -11,3 +11,7 @@ hash = "38cc1e853ea8048a82ed91b7b1863412fc8b2388833efe38a3001ead0e822480e51cfffd
 [update.modrinth]
 mod-id = "K0AkAin6"
 version = "d8vwxP2F"
+
+[option]
+optional = true
+description = "Удобная сортировка инвентаря и сундуков с помощью горячих клавиш или кнопок в интерфейсе. Работает на стороне клиента, поддерживает настройку исключений слотов."

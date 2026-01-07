@@ -11,3 +11,7 @@ hash = "2f8e6550fb1fdd551de239208b17bba9453952d5803514b1e143fb5751e1b8487d03bf38
 [update.modrinth]
 mod-id = "p19vrgc2"
 version = "G1mAiK1w"
+
+[option]
+optional = true
+description = "Реализует поддержку соединенных текстур (Connected Textures) и других типов моделей для ресурс-паков. Позволяет блокам (например, стеклу) соединяться визуально, заменяя функционал CTM из OptiFine."

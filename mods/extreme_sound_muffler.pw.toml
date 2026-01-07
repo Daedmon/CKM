@@ -11,3 +11,7 @@ hash = "5fb4ef6bdcf344dae3af9f39a8ce510ebb3fe5d928ce17ba3067bb1e034e3eeb953c0fd9
 [update.modrinth]
 mod-id = "5IIKsxiL"
 version = "7daeCqUP"
+
+[option]
+optional = true
+description = "Добавляет удобный интерфейс для выборочного приглушения или полного отключения любых звуков в игре. Позволяет избавиться от надоедливых шумов мобов, механизмов, дождя или грома."

@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/citreforged.pw.toml"
-hash = "ccc0aea2b6fd6a99829f213bc91eed50f94fa4370c8db41fec9b7aba107316db"
+hash = "52938b3b8af2d4721d0f9b280a5f1065497d7cd91778d3532186bbc4d2616d12"
 metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "f2c4a0685108815a66ed5861dfd2fccd04c617ddb7b06045d1f1928dd6086629"
+hash = "86f2308b9ee170b3687b41495400bda8432b36f9e506bef9c06a5f8b8173ab3f"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "769316a7c75a36343a329396ed095fc790633bb271464130757ee92f735fc4ad"
+hash = "04c58b7195ecc1d930afec1d65513db538333eb38562bd6134b6bd82f2b88e29"
 metafile = true
 
 [[files]]
@@ -103,11 +103,6 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "eb4f3d721559d97a437dbcee26e3da827e6b301f44e86e1b813118c2bff25377"
-metafile = true
-
-[[files]]
-file = "mods/connectivity.pw.toml"
-hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
@@ -123,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/create-clockwork.pw.toml"
 hash = "7fefb7b41c172143d8d134a8eb591ef625c4d60c1abcdeedc0a63c75b57bdefd"
-metafile = true
-
-[[files]]
-file = "mods/create-copper-zinc.pw.toml"
-hash = "1583e41c4368f2797d2766a9d7138c3c6d9cda0af8b46c9da406bd9ee2c029a4"
 metafile = true
 
 [[files]]
@@ -217,12 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b4e39eaf05f752f5160666b4fc9d4488cd51edebff597f32bb14e139dd5e085e"
+hash = "22bcd2fb611f2a8d94acbd9e14d611b18cdd7162ca5756e8dfeacd8d5544b93b"
 metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "66b53fe7565ce3b7e411fcd17bcdda1411d28405dc802f8a2ae527e40789835d"
+hash = "541dcd21fdba4574c7aabb9e71a4de911ca7fbd380333b8ea570b2923753a839"
 metafile = true
 
 [[files]]
@@ -232,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe-forge.pw.toml"
-hash = "54c84727c0d0423a3d7f0049bd3b1b7d9136ff1f41ce5fc83d6c29c6119ea4b0"
+hash = "f82f58574d2c347a32b7808bc04c1a7bcdb5ae11effeb8a097e4ae23631ac3f8"
 metafile = true
 
 [[files]]
@@ -246,13 +236,8 @@ hash = "2a5ec036147e0c0ac36f551c0f5e357afff8de395803b0dd5b6a04343e7ba1af"
 metafile = true
 
 [[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f69c866ad8babccb7a7bea7674fe0f68b45b5a0239f10976bea5cea2f73eeee0"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
+hash = "0f98e289e2ed8272ac54995fb686f8b61ff6fa737650f8752a4611b82e554923"
 metafile = true
 
 [[files]]
@@ -262,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
-hash = "316ff29d5eb2c8bd66f517a4b8ac942a65b41beaa8fdb5e2c13b41326b947639"
+hash = "450f7252796acbd40bcbc1f952f17f14c3a37234c8187a48682e3ec267034273"
 metafile = true
 
 [[files]]
@@ -282,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "64426fd63554594b3d2d2390cae5183309bb1ac2116db0baa77f1957d3eee4ac"
+hash = "059ef1339875c9039aa2925dcf93efe8793a06628ae6b72645dfed5bec35f307"
 metafile = true
 
 [[files]]
@@ -357,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "3174c4ef052c5e472a1d6940912208602d3d0ba1257053986640f6ea0e49e804"
+hash = "f84fa15b912e98255de3bd0b0809f5085d475510fd6f63e01e1e59ef212e3484"
 metafile = true
 
 [[files]]
@@ -461,23 +446,18 @@ hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
-file = "mods/ukraine-delight.pw.toml"
-hash = "4b1f93f5b898590c3a9495d72b6ceb6fbb57b4f51472f36494b409962e6f8431"
-metafile = true
-
-[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "4a99189bb405cef0912f67530bc227d28d89f8c40e484267e66bf64ed9231020"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "dd9c8d955749815ea13a1e500711926fd631bab441ceda04994ac84d1cdd52a6"
+hash = "6e3e75aa0a86532cee6c8a5d0483bc9a99939ca6a2ce897118f286558ccd5e7e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "c610e4f3a315259f44c6c2ce05503e93c7525a43a21d13f0e0661062cb82bede"
+hash = "f202d6a912311e7d51279ee8a1d6b5abf5ff77984206b3ce2925f9a5ae43203a"
 metafile = true
 
 [[files]]
