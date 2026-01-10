@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-clockwork.pw.toml"
-hash = "7fefb7b41c172143d8d134a8eb591ef625c4d60c1abcdeedc0a63c75b57bdefd"
+hash = "cc128baeb57c03ec23d58d4ea94b5179335e6c394049b0b54cbaa680f598ba7b"
 metafile = true
 
 [[files]]
