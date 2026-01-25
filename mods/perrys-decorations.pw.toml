@@ -1,0 +1,13 @@
+name = "Perry´s Decorations"
+filename = "perrys_decorations-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mJU8hxj4/versions/PBzodq6H/perrys_decorations-1.0.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "522cb870fefa45846e52b526d6d9d9411ac71e9128e2091282da10dd82140afbe0d2ec92a6915e8452d9cc5c67a062b8152508f811f2a026923735bff94adaf6"
+
+[update]
+[update.modrinth]
+mod-id = "mJU8hxj4"
+version = "PBzodq6H"
