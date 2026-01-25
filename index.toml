@@ -426,6 +426,11 @@ hash = "968d42ca22e8d84a7611ece0a3f719288aac0a17431b9bf391009e7c026730be"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+metafile = true
+
+[[files]]
 file = "mods/perrys-decorations.pw.toml"
 hash = "d525d9c32cd2d1bd70aec6fdc3742649a9a1a575c8931968050d07b4306069d5"
 metafile = true
