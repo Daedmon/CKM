@@ -1,17 +1,13 @@
 name = "Colorwheel Patcher"
-filename = "colorwheel_patcher-forge-1.0.3+mc1.20.1.jar"
-side = "both"
+filename = "colorwheel_patcher-forge-1.0.4+mc1.20.1.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/KPsw5jDu/versions/1JZBSXYs/colorwheel_patcher-forge-1.0.4%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "ae240222084eebb4b4f2a0257559e9baa9a5bd02a1f934da3697dd343320fc1a3b692b5c63366e0304159f7c60a95387e0f6b00fc51b609d45b7abbe72e7c635"
-mode = "metadata:curseforge"
+hash = "d9979e73e4086e0ebd4143b4b639a30a077607d3462e35477f4c4ece433995542c6434f18f42dfc5c894151c833e5fa488bde4caea4aff843f970bafeade2afb"
 
 [update]
-[update.curseforge]
-file-id = 7152028
-project-id = 1285475
-
-[option]
-optional = true
-description = "Патчит некоторьіе шейдерьі для совместимости с Colorwheel.\n\nПоддерживаемьіе шейдерьі:\n    BSL 10.0\n    Bliss 2.1.1\n    Complementary 5.6\n    Euphoria Patches 1.6.3 - 1.6.8\n    Photon 1.2a\n    Rethinking Voxels 0.1-beta9"
+[update.modrinth]
+mod-id = "KPsw5jDu"
+version = "1JZBSXYs"

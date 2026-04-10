@@ -1,17 +1,13 @@
 name = "Colorwheel"
-filename = "colorwheel-forge-1.2.1+mc1.20.1.jar"
+filename = "colorwheel-forge-1.2.3+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/UGEPiYlo/colorwheel-forge-1.2.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/D1JEGUGi/colorwheel-forge-1.2.3%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "e123bf3abd64f95dcea4b8cc0681389e497bbd925d6d9729dedcea8daf439ce366ea6aeaae0735ae1bd2654a706a36b682d2aa8244e8ad39b70dc45ed78111be"
+hash = "715da3e3ed3a806bf39c3a0a7f1d762adbdb7b1fabec6dc6d1f0ed58334026d70ad4b38e1c8e2693ee82a3f77394e105c80078ecd9ccbe1750a14abdacd25316"
 
 [update]
 [update.modrinth]
 mod-id = "BzHgFoGz"
-version = "UGEPiYlo"
-
-[option]
-optional = true
-description = "Мод совместимости между движком рендеринга Flywheel (используется в Create 0.6+) и шейдерами Iris. Позволяет корректно отображать механизмы Create с включенными шейдерами."
+version = "D1JEGUGi"

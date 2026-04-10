@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "278bc7ba256f6a2bf8c01c049972b16d1d23194c895eca77f977d23082d960fd"
+hash = "ae8d380124a4c6e2c34d0d6d6fcd06f1ed4428fea1e74b95013b5155fdf7e623"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "5541e2128c55b19eeeee99b9f8b7380627b72eeb970769cba8cb09f80151e495"
+hash = "ba427b584e4889af9c3de10ac52031cd79cea952f94b6a291f467c644c677365"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "22bcd2fb611f2a8d94acbd9e14d611b18cdd7162ca5756e8dfeacd8d5544b93b"
+hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2a5ec036147e0c0ac36f551c0f5e357afff8de395803b0dd5b6a04343e7ba1af"
+hash = "a53515dc59b550cc1d721b8f00207246535cb1c1291f3277395d97b5cd54e1b1"
 metafile = true
 
 [[files]]
@@ -257,12 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c61547fcb79cbc520c73374a01430c25af6ce2de258f019bd2c617b2d9bd71c7"
+hash = "c80830833e1b784e68b9a34539297081bac42e22264300d1b1555b2031d7ad83"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "568d5c19bfa18547a7b19361b608a275b27e368ae009b00afe7b7a42b7df0db6"
+hash = "3389d15bfa8050a4005578cc6ff4b3f00897a190cd7c11fa8a4562280adb6715"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
+hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5ccedc16130668600dec39a19609afd33ea1f2a0e92f737b4369c117b7276160"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "fc10ab4fd98244dc1512adbfdb47bdc11fe43c860996cd4067834233fce9a562"
+hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
 metafile = true
 
 [[files]]
@@ -512,12 +512,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6e3e75aa0a86532cee6c8a5d0483bc9a99939ca6a2ce897118f286558ccd5e7e"
+hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f202d6a912311e7d51279ee8a1d6b5abf5ff77984206b3ce2925f9a5ae43203a"
+hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
 metafile = true
 
 [[files]]
