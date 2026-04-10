@@ -46,6 +46,11 @@ hash = "41e86b26f4cde514268443446e873ca32e0c2e128c3f106c46489fe6c608478e"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
+metafile = true
+
+[[files]]
 file = "mods/butchers-delight-foods.pw.toml"
 hash = "80933837c0b6998cd1127248e1a714721b9ee49eb3bbaecf3b931598fd18fa69"
 metafile = true
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "067fc433511066d18b1795b86c9856246a8da7f9a4316afd6b25e5eee181f660"
+hash = "a02b72ee2511b1b0c34df97c841b4fe1e1c7033d0b411328371a426c97fe5d42"
 metafile = true
 
 [[files]]
