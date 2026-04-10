@@ -1,13 +1,13 @@
 name = "Dusty Decorations"
-filename = "DustyDecorations_1.20.1Forge_V1.10.3.jar"
+filename = "DustyDecorations_1.20.1Forge_V1.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/7GLSpmfb/DustyDecorations_1.20.1Forge_V1.10.3.jar"
+url = "https://cdn.modrinth.com/data/KgFOuaiZ/versions/sEG2m8ZC/DustyDecorations_1.20.1Forge_V1.12.jar"
 hash-format = "sha512"
-hash = "25bf019cc9fee3a9f6e2a5360a79c59ba71db0316aa687b02015e76d8047af2b1139658356a76e57de7dc8141eb2133c04bd7d614b7207959f0922ae4199e13a"
+hash = "b810263cf84f543597030bd8276a17aa05e0a7f8809e5b290d01225edcbcfe158735b8b711e20d265df5292d3b80e8ecd845f9cd3b042deab6a21115b2f00376"
 
 [update]
 [update.modrinth]
 mod-id = "KgFOuaiZ"
-version = "7GLSpmfb"
+version = "sEG2m8ZC"

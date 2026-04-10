@@ -1,15 +1,15 @@
 name = "Cull Leaves"
-filename = "cullleaves-forge-4.1.0+1.20.1.jar"
+filename = "cullleaves-forge-4.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "16face192d27bf37dfb7aaca8405c4ebd3a536d43eede9d76aad8714990c91f5bfe8874e4b18f619060e058f5294b6e883ec55d09ce350327618d2323f3d2a44"
+hash-format = "sha1"
+hash = "610b92837c4233c5c1f22ed495728c5ad0c78050"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7253531
+file-id = 7324169
 project-id = 423254
 
 [option]

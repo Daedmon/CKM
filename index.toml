@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "8692c6443291bdf58d77ebc1b50962f88942648eca6dcea187bfc3b18fe51dd0"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3c1f64d610b06d74356578f6bc18a14db257ac4e6419a39dede2643c87115c05"
+
+[[files]]
+file = "config/nerb.yaml"
+hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
+
+[[files]]
+file = "config/sodiumdynamiclights-client.toml"
+hash = "8aea55322a5c29c16554b5a0ef4e5037ef08130e22597801a64c6838a8a77997"
+
+[[files]]
+file = "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
+hash = "7d9c2ccf34d06ab61b402fb8fd083e7ee8bc9a9dbe11d948c3e206c793652fa4"
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "9eadd0f77009064608f92a455e7a0cf10fbea413263998ae0e2076e6e20facf5"
 metafile = true
@@ -56,11 +76,6 @@ hash = "80933837c0b6998cd1127248e1a714721b9ee49eb3bbaecf3b931598fd18fa69"
 metafile = true
 
 [[files]]
-file = "mods/butchers-delight.pw.toml"
-hash = "8fb344ccd4a719e2b130723514a4f4ee6bd38ae52eaf962b0b6ccb1bf07d15d6"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -87,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "043d686c1e2c13ec5232c1677f3c6a767e2ef94eb35b98a77552e5f51bce05de"
+hash = "523ea4ebadd828449192623f40bf8ecaa32d2222621246a2a462bda764f55127"
 metafile = true
 
 [[files]]
@@ -117,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "a227a161bdb20250ec684935df9719bb2624d2290e9ea7ca3ee8f8516e965f02"
+hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
 metafile = true
 
 [[files]]
@@ -132,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
-hash = "6539be34ce1c1142910690b42dd243672ca0a2d64a2e15b70ad5a863e0ec06ee"
+hash = "c6e479fe5a89c449d8aab32a302e5ed6c7d66700a2cc8782602dcf3180dcae10"
 metafile = true
 
 [[files]]
@@ -142,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-food.pw.toml"
-hash = "33f6b606778f4f5fd47e148fb145f53e3c7a57e9f503f2f5d964039f62835673"
+hash = "4462e728c1330286d938c43f63013bcdd80c926794a92b0320b1a422547ae565"
 metafile = true
 
 [[files]]
@@ -192,17 +207,16 @@ metafile = true
 
 [[files]]
 file = "mods/cull-leaves.pw.toml"
-hash = "bcf20bd218916fb855e6172ae117a4cbba4768913ed76989ca09068d4dd99a0c"
+hash = "a1e04dbc33a9ab47bc36aaa65b289e1ffdae2f8c4482a103fa6fe31952bb00d9"
 metafile = true
 
 [[files]]
-file = "mods/cultural-delights.pw.toml"
-hash = "58a21ddc3701972ae8b8ebd7eca07fccfab725597a0fe05a605c80a42f80cd58"
-metafile = true
+file = "mods/culturaldelights-0.16.6.jar"
+hash = "39c049c8223ec07339031d1088d6cff6c2812ed09c0648d63927d27524b2119f"
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
 metafile = true
 
 [[files]]
@@ -222,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
-hash = "b1e53c5d3e9ef0860708f7d3cb6b7b458cf38814d715be5227dbf6e7300faaef"
+hash = "6308db6f283d5cc6fa0895ee4d65b7117ff11a0860a20a5d87eef86ea28cad9a"
 metafile = true
 
 [[files]]
@@ -257,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0f98e289e2ed8272ac54995fb686f8b61ff6fa737650f8752a4611b82e554923"
+hash = "5c8273e4ebe2555e5d2bb4c9379d5f3ce1b7c4bf161b5277f0376c2cdf71fb1b"
 metafile = true
 
 [[files]]
@@ -322,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-furniture.pw.toml"
-hash = "3d6c1059f9552b727e0d37a5b81ca8af124899143d3de61af9f24ece5fc3aadd"
+hash = "1e09343862563482d2c4f129b186510cadc17c4ffe8860ce514bb2859fbb6f4b"
 metafile = true
 
 [[files]]
@@ -392,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "32ebc8e9c6d09c9f460f0f2815a6e5d5d68c73c75eb912b474c210689a9809f1"
+hash = "0b71da608af749f52d127e6fc64aee915df87163b9d13f2b86cf7eaa80ab4c8f"
 metafile = true
 
 [[files]]
@@ -422,12 +436,12 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "133e3dadd71ccde8a25cefccb080da9f59c5229824c40ca4a070168a4918ff00"
+hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "968d42ca22e8d84a7611ece0a3f719288aac0a17431b9bf391009e7c026730be"
+hash = "566d4326ea650e775d61b8df87c609e75cb8f05f2c92ffecd147086d6d05269d"
 metafile = true
 
 [[files]]
@@ -442,7 +456,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "131e4f8e6ea05f47b2167852ad319d15a004e951b49aba54cbb6306570319cea"
+hash = "01f2f4ee6833d98d82dca9e7505bda3ad0e087af6132b47130c1a09801c2d484"
 metafile = true
 
 [[files]]
@@ -492,12 +506,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f4481788b54b8cc3b31e5f5a726168bb9e1692dd09b5ab6edc4f6bd161f2d092"
+hash = "5b701d850f295b0e6ba578fe5599f533a1930a4b17458dce3f20d7b02c050065"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "098a1cd00ea41ca039bfe3c348148095e0a9c0736eefdaee4c36904f913a2b97"
+hash = "4e24dc04cef348fd40e0967e05446343665e02f201dc80731272416214054c22"
 metafile = true
 
 [[files]]
