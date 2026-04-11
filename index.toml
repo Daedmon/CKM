@@ -141,6 +141,11 @@ hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "21b5ef873d094c25240b029e20b18fdfb1fa5fcf290decba4a76c3cc76b5ef51"
+metafile = true
+
+[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
 hash = "d45e7c65d9d5c8b2473684e24d736900b9a1b977663d00955543d2b6531dbafb"
 metafile = true
@@ -178,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/create-oppenheimered.pw.toml"
 hash = "f8ea25bf65d13c5fbb69057f67c84f6fd634a9ea353a3b886d1be4edb3fd0040"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "de2de998a20ace7b50a6aadc4984343a81343096fe2acec92fb9326be40bb6c5"
 metafile = true
 
 [[files]]
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-village.pw.toml"
+hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
 metafile = true
 
 [[files]]
@@ -400,6 +415,11 @@ hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
 
 [[files]]
+file = "mods/mixinbooster.pw.toml"
+hash = "46ab3b5c3753084e41681c6eadf76a87561f95590979ff5eff8d8d79df7ded1a"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
 metafile = true
@@ -447,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
+metafile = true
+
+[[files]]
+file = "mods/patpat.pw.toml"
+hash = "771f7517c447d0caa0b967219d2920ff7084d5d9d3c68a123bdcdb412798b741"
 metafile = true
 
 [[files]]
@@ -527,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
