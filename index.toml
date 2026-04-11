@@ -410,6 +410,11 @@ hash = "eb6a1c1455632c6ea1ab12259d7082a19400be018eae95e44150a9f8fed330eb"
 metafile = true
 
 [[files]]
+file = "mods/maplink.pw.toml"
+hash = "f00de960fb89f32a5f3a76cc368993509f6fed14ecf6d38f9f05e27b139f118d"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
