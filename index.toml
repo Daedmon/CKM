@@ -5,6 +5,26 @@ file = "config/almostunified/unify.json"
 hash = "8692c6443291bdf58d77ebc1b50962f88942648eca6dcea187bfc3b18fe51dd0"
 
 [[files]]
+file = "config/maplink/friends.json5"
+hash = "b1a7457b9b3cf2ca24b13ee9ce31476d7e4c53b3207f2eed8c6849192c5dec95"
+
+[[files]]
+file = "config/maplink/general.json5"
+hash = "d298b84445b850309835b738a8cc8b9f83b2313e0099dc55cd825869806bd91d"
+
+[[files]]
+file = "config/maplink/hud.json5"
+hash = "01032bed5a917ac77d6bdabb4eb13da33042420fa2a4a16c5c878ebb4056c8f2"
+
+[[files]]
+file = "config/maplink/minimap.json5"
+hash = "f7c9a52e9c5a0cdfe88f90d9e004b3f73d12ac1928781e3d2352f6d1bbf96142"
+
+[[files]]
+file = "config/maplink/worldmap.json5"
+hash = "dc15bba984e69a7c9464ff7e304a7f0c321b6cccd1490ea6f8118e604a29d4b4"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "3c1f64d610b06d74356578f6bc18a14db257ac4e6419a39dede2643c87115c05"
 
@@ -426,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "97b807fbcaa59fd13ffdfd1428a2484d7c320f94af9ffda992ee9be9beba0286"
+hash = "38f979d7195ad71a64a478b301552660ede90271dbdc338954f339a92aa86f29"
 metafile = true
 
 [[files]]
@@ -536,12 +556,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "5b701d850f295b0e6ba578fe5599f533a1930a4b17458dce3f20d7b02c050065"
+hash = "50223aaa54a2aeef50ce93d98ad0f9c66153c2c4a78bfa03addafb7bb36a67fa"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "4e24dc04cef348fd40e0967e05446343665e02f201dc80731272416214054c22"
+hash = "51bd785f1d99966e9015a79511435e352b09356b29fdcde0f011c46395a958de"
 metafile = true
 
 [[files]]
