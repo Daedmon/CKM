@@ -97,11 +97,6 @@ hash = "52938b3b8af2d4721d0f9b280a5f1065497d7cd91778d3532186bbc4d2616d12"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "523ea4ebadd828449192623f40bf8ecaa32d2222621246a2a462bda764f55127"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -538,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "a6f983cad42efecf85b7471c837a84bf1dd1dbb38b941cd1b3314e092d390375"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-inventory-interactions.pw.toml"
+hash = "118adf72ea7e45aef3bf6e876f6f772710ff5c4323d4204bf7dd953137a3d79d"
 metafile = true
 
 [[files]]
