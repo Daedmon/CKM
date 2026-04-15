@@ -1,0 +1,13 @@
+name = "Serene & Slice Compat"
+filename = "sereneslicecompat-forge-1.20.1-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OdyyFUwv/versions/Sz8pv0eP/sereneslicecompat-forge-1.20.1-0.3.3.jar"
+hash-format = "sha512"
+hash = "99bfa5598ce2c2a885e3d32b9b8e97eb16484d2acae250cfac28b16dfe21f031a29e7fa0bec519ad34a3b10f76a2fce2098f7760aa3a35119c7f84c6933e7018"
+
+[update]
+[update.modrinth]
+mod-id = "OdyyFUwv"
+version = "Sz8pv0eP"
