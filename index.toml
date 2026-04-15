@@ -5,30 +5,6 @@ file = "config/almostunified/unify.json"
 hash = "8692c6443291bdf58d77ebc1b50962f88942648eca6dcea187bfc3b18fe51dd0"
 
 [[files]]
-file = "config/maplink/friends.json5"
-hash = "b1a7457b9b3cf2ca24b13ee9ce31476d7e4c53b3207f2eed8c6849192c5dec95"
-
-[[files]]
-file = "config/maplink/general.json5"
-hash = "d298b84445b850309835b738a8cc8b9f83b2313e0099dc55cd825869806bd91d"
-
-[[files]]
-file = "config/maplink/hud.json5"
-hash = "01032bed5a917ac77d6bdabb4eb13da33042420fa2a4a16c5c878ebb4056c8f2"
-
-[[files]]
-file = "config/maplink/minimap.json5"
-hash = "f7c9a52e9c5a0cdfe88f90d9e004b3f73d12ac1928781e3d2352f6d1bbf96142"
-
-[[files]]
-file = "config/maplink/worldmap.json5"
-hash = "dc15bba984e69a7c9464ff7e304a7f0c321b6cccd1490ea6f8118e604a29d4b4"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "3c1f64d610b06d74356578f6bc18a14db257ac4e6419a39dede2643c87115c05"
-
-[[files]]
 file = "config/nerb.yaml"
 hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
 
@@ -132,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "ae8d380124a4c6e2c34d0d6d6fcd06f1ed4428fea1e74b95013b5155fdf7e623"
+hash = "76ec14cebc50297fd843a32ef4444c02fea6eee78db0540512a1264f5f877e06"
 metafile = true
 
 [[files]]
@@ -266,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
-hash = "6308db6f283d5cc6fa0895ee4d65b7117ff11a0860a20a5d87eef86ea28cad9a"
+hash = "634d1d54012aedf62bada22315bca4e73dc7eb1579e9c48837e0ac1b29967947"
 metafile = true
 
 [[files]]
@@ -381,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
+hash = "db5b0e49607113eb8740838753460e6d2f8c718828fcc52b9fefd13adc4e4cae"
 metafile = true
 
 [[files]]
@@ -430,11 +406,6 @@ hash = "eb6a1c1455632c6ea1ab12259d7082a19400be018eae95e44150a9f8fed330eb"
 metafile = true
 
 [[files]]
-file = "mods/maplink.pw.toml"
-hash = "f00de960fb89f32a5f3a76cc368993509f6fed14ecf6d38f9f05e27b139f118d"
-metafile = true
-
-[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "ff3e8c24b856793dea18726883722d8274d7b292448ecc4beecec9df008d44cd"
 metafile = true
@@ -446,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "38f979d7195ad71a64a478b301552660ede90271dbdc338954f339a92aa86f29"
+hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
 metafile = true
 
 [[files]]
@@ -486,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "566d4326ea650e775d61b8df87c609e75cb8f05f2c92ffecd147086d6d05269d"
+hash = "92833933630db07b9e51c5a7c65668e57fa0bd7b76b6641b64f24ec1d9aac82a"
 metafile = true
 
 [[files]]
@@ -556,12 +527,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "50223aaa54a2aeef50ce93d98ad0f9c66153c2c4a78bfa03addafb7bb36a67fa"
+hash = "7292700f04a96dd5c0452832ed8d39adc75c4bed7747525bc6e88b3155e58325"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "51bd785f1d99966e9015a79511435e352b09356b29fdcde0f011c46395a958de"
+hash = "a6f983cad42efecf85b7471c837a84bf1dd1dbb38b941cd1b3314e092d390375"
 metafile = true
 
 [[files]]

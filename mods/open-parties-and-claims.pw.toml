@@ -1,17 +1,13 @@
 name = "Open Parties and Claims"
-filename = "open-parties-and-claims-forge-1.20.1-0.25.10.jar"
+filename = "open-parties-and-claims-forge-1.20.1-0.26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/39DoAVhA/open-parties-and-claims-forge-1.20.1-0.25.10.jar"
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/iF8Qpj44/open-parties-and-claims-forge-1.20.1-0.26.1.jar"
 hash-format = "sha512"
-hash = "f38be94dba195d5e3d48db40f07bfa83e4b19dcf18070871040d93b92c2c2eee6b0fabb710975d9b1dfc589f643d17082e60982837f088396766597ebe99348c"
+hash = "5a76fb93874bd44aec17dbef3c4b61d7664ea61ce35a411faa7f5f4d8440941b3c157b9d5cf82bfdd28e5406ef98be099151e8aaaf0e95acde30aace05891b37"
 
 [update]
 [update.modrinth]
 mod-id = "gF3BGWvG"
-version = "39DoAVhA"
-
-[option]
-optional = true
-description = "Можно вьіделять территорию на карте и прогружать чанки"
+version = "iF8Qpj44"
