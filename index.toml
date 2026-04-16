@@ -21,6 +21,11 @@ file = "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
 hash = "7d9c2ccf34d06ab61b402fb8fd083e7ee8bc9a9dbe11d948c3e206c793652fa4"
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "25221c74cfe8f4b71dc78c609ed78aa9c1ea56930a7ebf4a80dd4aa48630f693"
+metafile = true
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "9eadd0f77009064608f92a455e7a0cf10fbea413263998ae0e2076e6e20facf5"
 metafile = true
