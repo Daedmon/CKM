@@ -53,6 +53,8 @@
     "cucumber",
     "cut_cucumber",
     "diamond",
+    "eggplant",
+    "cut_eggplant",
     "electrum",
     "elementium",
     "emerald",
@@ -92,6 +94,9 @@
     "forge:crops/cucumber": [
       "culturaldelights:cucumber"
     ],
+    "forge:crops/eggplant": [
+      "culturaldelights:eggplant"
+    ],
     "forge:crops/pickle": [
       "culturaldelights:pickle",
       "compatdelight:pickled_cucumber"
@@ -99,6 +104,10 @@
     "forge:crops/cut_cucumber": [
       "culturaldelights:cut_cucumber",
       "compatdelight:cut_cucumber"
+    ],
+    "forge:crops/cut_eggplant": [
+      "culturaldelights:cut_eggplant",
+      "compatdelight:cut_eggplant"
     ],
     "forge:storage_blocks/cucumber": [
       "culturaldelights:cucumber_crate",
@@ -116,6 +125,10 @@
     "forge:crops/cucumber": [
       "forge:vegetables/cucumber",
       "forge:salad_ingredients/cucumber"
+    ],
+    "forge:crops/eggplant": [
+      "forge:vegetables/eggplant",
+      "forge:salad_ingredients/eggplant"
     ]
   },
   "itemTagInheritanceMode": "ALLOW",
@@ -125,11 +138,16 @@
   "ignoredTags": [
     "forge:dusts/salt",
     "forge:vegetables/cucumber",
-    "forge:salad_ingredients/cucumber"
+    "forge:salad_ingredients/cucumber",
+    "forge:vegetables/eggplant",
+    "forge:salad_ingredients/eggplant"
   ],
-  "ignoredItems": [],
+  "ignoredItems": [
+    "compatdelight:cooked_eggplant_salad"
+  ],
   "ignoredRecipeTypes": [
-    "cucumber:shaped_tag"
+    "cucumber:shaped_tag",
+    "eggplant:shaped_tag"
   ],
   "ignoredRecipes": [],
   "itemsHidingJeiRei": true
