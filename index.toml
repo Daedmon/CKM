@@ -132,13 +132,8 @@ hash = "cd1d5a57c6fe6432043ceb6c4756f17d79477989658d7d3f18ab6ae82e8b918f"
 metafile = true
 
 [[files]]
-file = "mods/create-clockwork.pw.toml"
-hash = "21b5ef873d094c25240b029e20b18fdfb1fa5fcf290decba4a76c3cc76b5ef51"
-metafile = true
-
-[[files]]
 file = "mods/create-curios-jetpack.pw.toml"
-hash = "d45e7c65d9d5c8b2473684e24d736900b9a1b977663d00955543d2b6531dbafb"
+hash = "afb43be35d18fe5357e0cc433a3ce2c455f595961af15961f368a49e6439a66a"
 metafile = true
 
 [[files]]
@@ -222,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "cd2a8909fcd40249d7b609fb93cd4fdcb7d821cc09fb446f89a24bb760ef0beb"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -553,11 +548,6 @@ metafile = true
 [[files]]
 file = "mods/toadlib.pw.toml"
 hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "380bacc16e7736fc791bfd34ab38684d69642a93b80da0543cd06b7cee8a36d0"
 metafile = true
 
 [[files]]
