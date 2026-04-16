@@ -5,6 +5,10 @@ file = "config/almostunified/unify.json"
 hash = "8692c6443291bdf58d77ebc1b50962f88942648eca6dcea187bfc3b18fe51dd0"
 
 [[files]]
+file = "config/jei/blacklist.cfg"
+hash = "9d749370c36adaa2ed5c9726ffeca2ad28021a5228a61a91eb8a383db8079f43"
+
+[[files]]
 file = "config/nerb.yaml"
 hash = "297c899fead9c3e358d9fc45edcc241f4ffbc25b71a8c1c2c84609d8110b8eca"
 
