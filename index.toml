@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "8692c6443291bdf58d77ebc1b50962f88942648eca6dcea187bfc3b18fe51dd0"
+hash = "062680462fae0f5b51a6a1609362ba100cd37fd7c6713bce030d4c6a3b5549a4"
 
 [[files]]
 file = "config/jei/blacklist.cfg"
