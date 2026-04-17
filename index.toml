@@ -126,6 +126,10 @@ hash = "f1f2ac0a30c1b2912e335f3d36b02a22af8b962385ed0a68bdcfa46cc83b9498"
 metafile = true
 
 [[files]]
+file = "mods/compostercompat-1.0.0.jar"
+hash = "d0aae6adbb90d4b811fd8ac5534d9eb49bd32e6056091813efd877512849675b"
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "eb4f3d721559d97a437dbcee26e3da827e6b301f44e86e1b813118c2bff25377"
 metafile = true
