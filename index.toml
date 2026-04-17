@@ -185,6 +185,11 @@ hash = "f8ea25bf65d13c5fbb69057f67c84f6fd634a9ea353a3b886d1be4edb3fd0040"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "255864fc7aa8e28619e5ddbf9094623bfcc9d6caa260bc0cd3d32b39d45a532f"
+metafile = true
+
+[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "de2de998a20ace7b50a6aadc4984343a81343096fe2acec92fb9326be40bb6c5"
 metafile = true
