@@ -11,3 +11,8 @@ hash = "7e9da67f4d69c7b831f8f8776f767822ade970eae3dbb03a93e45612153be6909ccd494f
 [update.modrinth]
 mod-id = "KPsw5jDu"
 version = "REyG66M8"
+
+[option]
+optional = true
+description = """
+Вспомогательный файл. Автоматически исправляет код шейдеров для совместимости с механизмами."""

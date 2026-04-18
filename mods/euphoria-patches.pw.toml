@@ -11,3 +11,8 @@ hash = "bc2e55ef2bdc5e425fb57bc19cfe87d2e0ef7b2ae4525d2bf291f3248900a176df6962b2
 [update.modrinth]
 mod-id = "4H6sumDB"
 version = "m1F9rztV"
+
+[option]
+optional = true
+description = """
+Дополнение для шейдеров, добавляющее множество реалистичных деталей (капли на экране, цветной свет)."""

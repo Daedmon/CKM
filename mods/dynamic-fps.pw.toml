@@ -11,3 +11,8 @@ hash = "a8234d0c1b4c7a75c7b05b280a5a120dc090be2c252bf4235e34f53751aa74ea2c236149
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "EjdIWWqG"
+
+[option]
+optional = true
+description = """
+Разгружает компьютер, снижая потребление ресурсов, когда окно Minecraft свернуто."""

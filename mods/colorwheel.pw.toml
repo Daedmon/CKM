@@ -11,3 +11,8 @@ hash = "715da3e3ed3a806bf39c3a0a7f1d762adbdb7b1fabec6dc6d1f0ed58334026d70ad4b38e
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "D1JEGUGi"
+
+[option]
+optional = true
+description = """
+Позволяет шейдерам работать вместе со сложными механизмами (например, из мода Create) без графических багов."""

@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "76ec14cebc50297fd843a32ef4444c02fea6eee78db0540512a1264f5f877e06"
+hash = "26b93eabd291348f4409dde9676132a824dae36f83b5e5f1e3de124d354130a0"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "ba427b584e4889af9c3de10ac52031cd79cea952f94b6a291f467c644c677365"
+hash = "9e26a9fe795b8bb7318c71e565242c8930e1c449079fe999255f6d6dd6d658b0"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b67251b53eb4685d349bda68fde30b021e99900fe4d445e6c0f3e9fa0a908580"
+hash = "dd9b2f399ec761fa806fdd6dd924cbffa9b843ad2155f0c562699385c0fcf099"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "3389d15bfa8050a4005578cc6ff4b3f00897a190cd7c11fa8a4562280adb6715"
+hash = "faa09bc709f9bb516b238aab5c6f88680f1cd1fbbaf3d9df7c8cc4ef72ba1634"
 metafile = true
 
 [[files]]
@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
+hash = "d8fcc944fbe3d6111608a6e75dea1cab4f93484874ba14217bd9ed531664b92a"
 metafile = true
 
 [[files]]
@@ -570,12 +570,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "0f4c36a62455f7a78f36b8768f2fd980e558d9a18552c6ee00e9d090b51de341"
+hash = "a3e8bb7abba137b76bf272c0341f366344d358d6ff3157b043a08f8e0513ca84"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ceef63cdf36c1e23cc00a78aa9b81a13a34fc02cea9ccdf2ec35d0558cff72e5"
+hash = "7cdf4c5e5f9cd494bd46a37843e1b6b4fc7a7d0f9e73238380eb84e8e046cba0"
 metafile = true
 
 [[files]]
