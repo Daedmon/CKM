@@ -12,7 +12,3 @@ hash = "210376e3377a7c75ecd5ccaa509cf1d574ff5e2fb833ac93060423efd6104a0a435bd0e8
 mod-id = "NcUtCpym"
 version = "vUbAYOnm"
 
-[option]
-optional = true
-description = """
-Полноэкранная карта, которая сохраняет и показывает весь исследованный вами мир."""

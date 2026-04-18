@@ -12,7 +12,3 @@ hash = "ad7d8e38419c91f77ac09a77c3972256977458ef50c5560b1d11f293b2a6ff4d04dee8eb
 mod-id = "1bokaNcj"
 version = "iMXAV165"
 
-[option]
-optional = true
-description = """
-Мини-карта в углу экрана, на которой видно мобов, игроков и личные метки."""
