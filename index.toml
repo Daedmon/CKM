@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
 metafile = true
 
 [[files]]
@@ -561,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/storagedrawers.pw.toml"
 hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
+metafile = true
+
+[[files]]
+file = "mods/tagfoods.pw.toml"
+hash = "9a0148594f79374aee385c0bdbffcc48a765552329eebcf4dfff69ec6208b146"
 metafile = true
 
 [[files]]
