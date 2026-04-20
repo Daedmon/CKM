@@ -1,0 +1,8 @@
+{
+  "uncap_menu_frame_rate": true,
+  "states": {
+    "invisible": {
+      "graphics_state": "reduced"
+    }
+  }
+}

@@ -9,12 +9,20 @@ file = "config/create_jetpack-client.toml"
 hash = "5d9c68572ff0f6dffa3f98d285ad1ccba049917a353d1af0564c2a38f30e4264"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "e433ffe0e57f2a02c19bc1f77ca85b29ede9dfb56d4c53c3ee262f78b04021f2"
+
+[[files]]
+file = "config/enhanced_bes.json"
+hash = "4a51bf3d21783aaddb140220e43d8a95ff899600459bb5e8440fb151d134f59e"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "9d749370c36adaa2ed5c9726ffeca2ad28021a5228a61a91eb8a383db8079f43"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "f6d3f2ebb815af6d9734b83f43acecfc8bee71d33e0c4c41d2fb2e709b3af3c0"
+hash = "293549135be47f84619a51733ad24175a90a6d57554f2737d9eb34e1fa2116a4"
 
 [[files]]
 file = "config/nerb.yaml"
