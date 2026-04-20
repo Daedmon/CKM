@@ -564,11 +564,6 @@ hash = "ff765c8249ef581bc6eef2ab9304f519aeec2552dc7a57760b7cd88eadd2685d"
 metafile = true
 
 [[files]]
-file = "mods/tagfoods.pw.toml"
-hash = "9a0148594f79374aee385c0bdbffcc48a765552329eebcf4dfff69ec6208b146"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
 metafile = true
