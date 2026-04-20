@@ -5,8 +5,16 @@ file = "config/almostunified/unify.json"
 hash = "062680462fae0f5b51a6a1609362ba100cd37fd7c6713bce030d4c6a3b5549a4"
 
 [[files]]
+file = "config/create_jetpack-client.toml"
+hash = "5d9c68572ff0f6dffa3f98d285ad1ccba049917a353d1af0564c2a38f30e4264"
+
+[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "9d749370c36adaa2ed5c9726ffeca2ad28021a5228a61a91eb8a383db8079f43"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "f6d3f2ebb815af6d9734b83f43acecfc8bee71d33e0c4c41d2fb2e709b3af3c0"
 
 [[files]]
 file = "config/nerb.yaml"
@@ -261,11 +269,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "dd9b2f399ec761fa806fdd6dd924cbffa9b843ad2155f0c562699385c0fcf099"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-village.pw.toml"
-hash = "8f6d01969bfabefba7240fa5f89c610b4000cf43c6095cef9b82b38fb1bf2281"
 metafile = true
 
 [[files]]
