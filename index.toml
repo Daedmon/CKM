@@ -265,6 +265,11 @@ hash = "6dfb89477ea9588a6cc33c93b439d4a54362b4d96375dc8449c5861e9552bc5f"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "a0231bdd8723f272f8aa09c57c331eaa3abca78a5a4fb00fdfe0c9fca11920bf"
+metafile = true
+
+[[files]]
 file = "mods/drg-laser-pointer.pw.toml"
 hash = "50e7fa666edfa32551f17474c59ddc6933dbf5c4687de40dbf586f50f7777b65"
 metafile = true
