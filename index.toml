@@ -191,6 +191,11 @@ hash = "0a0533fddd34d04fd6551f5c352081b711662d12f2f2051fe7232a53172edf0e"
 metafile = true
 
 [[files]]
+file = "mods/create-mechanical-extruder.pw.toml"
+hash = "9f22274053b0a030ed2a8d8c5a4449c66aa99893a1451a884a46d530bfebe389"
+metafile = true
+
+[[files]]
 file = "mods/create-mod-trims.pw.toml"
 hash = "598af112d247563245d5638a384c711eb8d6f19d2281da119aca3a82a313a609"
 metafile = true
@@ -336,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d1fd6352951c3a340d371da85289376266e8b95fd3e3ae44d4fa2288f3f8b0d6"
+hash = "4196b19361650ece7914e573719a94e5e81b42b96877c1e00441f3a1ce20f4ab"
 metafile = true
 
 [[files]]
@@ -471,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8166a38e2d8165d4f6e7d7c5275d3f8dea5ad2d4e1e5506339aa928062933f71"
+hash = "716125d65ca673d776e0c792d96ccfa3172066716e8b92b930bf5b56705e0ab6"
 metafile = true
 
 [[files]]
