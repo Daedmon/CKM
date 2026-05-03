@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "26b93eabd291348f4409dde9676132a824dae36f83b5e5f1e3de124d354130a0"
+hash = "985fb8180714d3a155abf73fe46b75876b4bbcdcbdf9a3f3c5ea7b4c05e2fb77"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "faa09bc709f9bb516b238aab5c6f88680f1cd1fbbaf3d9df7c8cc4ef72ba1634"
+hash = "8e025c0ecc2b35896cd828b85474a0d10a9783c9d8a15d350491179f41ebab3a"
 metafile = true
 
 [[files]]
