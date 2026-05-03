@@ -11,3 +11,8 @@ hash = "0857b572a8695148f72eb9edc6218039ceeab8d11068fdfb567a5b1182232d7500ccccd7
 [update.modrinth]
 mod-id = "BVzZfTc1"
 version = "GQlTHleX"
+
+[option]
+optional = true
+description = """
+Хз"""
