@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe-forge.pw.toml"
-hash = "f82f58574d2c347a32b7808bc04c1a7bcdb5ae11effeb8a097e4ae23631ac3f8"
+hash = "54c84727c0d0423a3d7f0049bd3b1b7d9136ff1f41ce5fc83d6c29c6119ea4b0"
 metafile = true
 
 [[files]]
@@ -340,18 +340,8 @@ hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "2d874dbdf33aaeae5e753a4ec0bc738546f4bf27e12b789ab0243fd8e610b751"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5c8273e4ebe2555e5d2bb4c9379d5f3ce1b7c4bf161b5277f0376c2cdf71fb1b"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "be5984daa690bc206c63747cfbee33abdd2d1374d1dea83dac02d662c6512897"
 metafile = true
 
 [[files]]

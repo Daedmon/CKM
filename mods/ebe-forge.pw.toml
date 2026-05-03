@@ -11,7 +11,3 @@ hash = "6f9b1eef1cc3982d9505c96e941190aa9c5996c30dd8de0f789a1b2cca0e4a41573d54ba
 [update.modrinth]
 mod-id = "ntz4ZX7h"
 version = "rQm3ja4Q"
-
-[option]
-optional = true
-description = "Порт мода Enhanced Block Entities (EBE) для Forge/NeoForge. Оптимизирует рендеринг сундуков, табличек, кроватей и других блок-сущностей, заменяя их модели на более производительные 'запеченные' варианты. Существенно повышает FPS в зонах с большим количеством хранилищ."
