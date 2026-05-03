@@ -72,6 +72,11 @@ hash = "f84300bcfa8c4a18358231c25b38892a98685cf537295419bce81242737df821"
 metafile = true
 
 [[files]]
+file = "mods/bandwidthoptimizer.pw.toml"
+hash = "a451f7a2231f21c72dc294df9c3dfe38f0460dca461992918b5e4b455d2e1673"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
@@ -636,9 +641,4 @@ metafile = true
 [[files]]
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "f1231e60145f7b7182c0348c7025e75d96710e6731df3876d9257b93adb1b14b"
-metafile = true
-
-[[files]]
-file = "mods/zstdnet.pw.toml"
-hash = "721dcd150f01e7b42fa97d9f86ea3d4f6b12fad6cc3cc2743c0d12e3c72c1ee2"
 metafile = true
