@@ -11,8 +11,3 @@ hash = "fb87751a60e48579d6f9bb117d459c6dc157c87fe71c8e2bc088ba859ff2725112b5330d
 [update.modrinth]
 mod-id = "13qq15Cg"
 version = "7jEatFH8"
-
-[option]
-optional = true
-description = """
-Убирает визуальньій дефект в списке серверов."""

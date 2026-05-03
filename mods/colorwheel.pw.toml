@@ -11,3 +11,8 @@ hash = "cfd12eb9f566d4b40139e82d3d6c46107d92c4f9b7ecbfecd146f4510d760b1667ee32b9
 [update.modrinth]
 mod-id = "BzHgFoGz"
 version = "WPMWOZEv"
+
+[option]
+optional = true
+description = """
+Добавляет фпс к Шейдерам на заводах"""
