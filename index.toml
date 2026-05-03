@@ -625,10 +625,6 @@ hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
-file = "mods/trueuuid-1.0.2.jar"
-hash = "aeeac733ed1d1f832494438cb94035c4f19207b25882bd55366d02c52464e3ec"
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "cd7090fabd873dc12697cfbf8b5e88af227c7e995eadb6f022c917617ddef201"
 metafile = true
