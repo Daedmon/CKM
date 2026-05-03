@@ -22,7 +22,7 @@ hash = "9d749370c36adaa2ed5c9726ffeca2ad28021a5228a61a91eb8a383db8079f43"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
-hash = "293549135be47f84619a51733ad24175a90a6d57554f2737d9eb34e1fa2116a4"
+hash = "fe86f9862c81aab7eb7394b004bfee9464bbbb1584d91825175dbfc745b2c609"
 
 [[files]]
 file = "config/nerb.yaml"
