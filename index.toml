@@ -515,11 +515,6 @@ hash = "8516b043738dad16ef7e4b7f264804f346c9829bde608327788bc517fedabf7a"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "0cca9c5156790e5eaffc19493c9c34d8058bee32ff6a7c54c6599823d59437a6"
-metafile = true
-
-[[files]]
 file = "mods/patpat.pw.toml"
 hash = "771f7517c447d0caa0b967219d2920ff7084d5d9d3c68a123bdcdb412798b741"
 metafile = true
