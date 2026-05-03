@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
+hash = "0cca9c5156790e5eaffc19493c9c34d8058bee32ff6a7c54c6599823d59437a6"
 metafile = true
 
 [[files]]
@@ -620,6 +620,10 @@ hash = "8a46b1ad0c1eaa1f0a0d03bf71ccf53b5d706cc9095c31fb0e653f4cb4e03158"
 metafile = true
 
 [[files]]
+file = "mods/trueuuid-1.0.2.jar"
+hash = "aeeac733ed1d1f832494438cb94035c4f19207b25882bd55366d02c52464e3ec"
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "cd7090fabd873dc12697cfbf8b5e88af227c7e995eadb6f022c917617ddef201"
 metafile = true
@@ -632,4 +636,9 @@ metafile = true
 [[files]]
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "f1231e60145f7b7182c0348c7025e75d96710e6731df3876d9257b93adb1b14b"
+metafile = true
+
+[[files]]
+file = "mods/zstdnet.pw.toml"
+hash = "721dcd150f01e7b42fa97d9f86ea3d4f6b12fad6cc3cc2743c0d12e3c72c1ee2"
 metafile = true
