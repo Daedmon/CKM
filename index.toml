@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "9e26a9fe795b8bb7318c71e565242c8930e1c449079fe999255f6d6dd6d658b0"
+hash = "3851e99d3e3eeeef8f0f7f7a55fe9772453f6c761eef13c52c9090b667ac21a4"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "415c23be2083c35d6e867c82d37030e076d7617deeb5cd2e21aadead49e35767"
+hash = "d0073f09430bce838a76b61349eef53640fe8f8f2ce89cacd4e5cf55b96caf6c"
 metafile = true
 
 [[files]]
@@ -506,7 +506,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "92833933630db07b9e51c5a7c65668e57fa0bd7b76b6641b64f24ec1d9aac82a"
+hash = "8516b043738dad16ef7e4b7f264804f346c9829bde608327788bc517fedabf7a"
 metafile = true
 
 [[files]]
@@ -586,12 +586,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "7292700f04a96dd5c0452832ed8d39adc75c4bed7747525bc6e88b3155e58325"
+hash = "774af94fa452968329197b9aa4a9725c07d7a2b7b70e0c9d2d4903df27605ded"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "a6f983cad42efecf85b7471c837a84bf1dd1dbb38b941cd1b3314e092d390375"
+hash = "7a78573ce8d326582570a80c03741ab97636838a07cb5e84164c431b55645c13"
 metafile = true
 
 [[files]]
@@ -611,7 +611,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "4631b5c293a9887eb8119f2cc06c0c24d026ff0981305c572a531a3df64f00f5"
+hash = "f128e36824595fd95dd6e714d9de22f7319bdf8b31a9c7d43799217a41e9f3f5"
 metafile = true
 
 [[files]]
