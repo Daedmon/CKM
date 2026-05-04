@@ -37,6 +37,10 @@ file = "mods/Butchersdelight beta 1.20.1 2.1.0.jar"
 hash = "7d9c2ccf34d06ab61b402fb8fd083e7ee8bc9a9dbe11d948c3e206c793652fa4"
 
 [[files]]
+file = "mods/PatPat-1.2.4+1.20.1+forge.jar"
+hash = "629e0c08bea457ea00d6301c6010e3ec504efa5094269082f601feefd1d97206"
+
+[[files]]
 file = "mods/abyssal-decor.pw.toml"
 hash = "25221c74cfe8f4b71dc78c609ed78aa9c1ea56930a7ebf4a80dd4aa48630f693"
 metafile = true
@@ -153,6 +157,11 @@ hash = "998cf3e4e8f325dc43f26d2d556708d25f52e12813c97b08e26753fdec61c743"
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "eb4f3d721559d97a437dbcee26e3da827e6b301f44e86e1b813118c2bff25377"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "68a935746aad424891dcb36fa705cdafd652ea1170ecb8144b1db0c87e30297b"
 metafile = true
 
 [[files]]
@@ -300,8 +309,8 @@ hash = "284088caaaec001ee13e2ccdbed7b0433d573bdd79c92764af6928ba0df0a703"
 metafile = true
 
 [[files]]
-file = "mods/ebe-forge.pw.toml"
-hash = "54c84727c0d0423a3d7f0049bd3b1b7d9136ff1f41ce5fc83d6c29c6119ea4b0"
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
@@ -367,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
@@ -512,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "ef0c8813eef47e8ffdce023dfee08152a5099817960dce86623b9a21e8b14be2"
-metafile = true
-
-[[files]]
-file = "mods/patpat.pw.toml"
-hash = "771f7517c447d0caa0b967219d2920ff7084d5d9d3c68a123bdcdb412798b741"
 metafile = true
 
 [[files]]
