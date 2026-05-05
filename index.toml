@@ -126,11 +126,6 @@ hash = "c7ac7f84731a0ca1fefb3491c3f65c2767afd4be207e094fcb65c4cea99c9549"
 metafile = true
 
 [[files]]
-file = "mods/citreforged.pw.toml"
-hash = "52938b3b8af2d4721d0f9b280a5f1065497d7cd91778d3532186bbc4d2616d12"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
